@@ -1,1 +1,1 @@
-# Bigger-is-Greater-ALGO
+# Bigger-is-Greater-ALGO.This solution finds the next lexicographically greater string by identifying where the sequence stops decreasing, swapping with the next larger character, and reversing the suffix to create the smallest possible greater permutation.
